@@ -19,12 +19,9 @@ O objetivo do projeto era criar uma página que simulasse um telefone com ícone
 
 ## 😎 veja a captura de tela do projeto a baixo:
 - computador
-![computador]()
-<br>
+![computador](capturas/desktop-projeto-redes-sociais.png)
 
-- Ipad
-![Ipad]()
 <br>
 
 - Telefone <br>
-![telefone]()
+![telefone](capturas/telefone-projeto-redes-sociais.png)
