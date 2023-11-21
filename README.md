@@ -1,4 +1,4 @@
-# 🚀 projeto-login
+# 🚀 projeto-Redes-Sociais
 
 ## 🔗 Resultado
 
