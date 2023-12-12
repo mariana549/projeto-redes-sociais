@@ -3,7 +3,7 @@
 ## 🔗 Resultado
 
 O resultado do projeto foi uma página divertida e dinâmica, que mostrava o meu conhecimento e a minha criatividade com HTML e CSS. <br>
- A página do projeto pode ser acessada no seguinte endereço: [Projeto Redes Sociais](https://mariana549.github.io/projeto-redes-sociais/).
+ A página do projeto pode ser acessada no seguinte endereço: [Projeto Redes Sociais](https://projeto-redes-sociais-zeta.vercel.app/).
 
 ## 📝 Descrição
 
